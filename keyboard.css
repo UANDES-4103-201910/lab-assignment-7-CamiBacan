@@ -16,7 +16,7 @@
   	line-height: 1vw;
   	font-size: 1.5vw;
   	line-height: 3.2vw;
-  	border-radius: 25vw;
+  	border-radius: 5vw;
 }
 .regular-key:active {
 	background-color: #FFCCCC
@@ -31,7 +31,7 @@
   	text-align: center;
   	font-size: 1.5vw;
   	line-height: 3.2vw;
-  	border-radius: 25vw;
+  	border-radius: 5vw;
 }
 .longer-key:active {
 	background-color: #FFCCCC
@@ -46,7 +46,7 @@
   	text-align: center;
   	font-size: 1.5vw;
   	line-height: 3.2vw;
-  	border-radius: 25vw;
+  	border-radius: 5vw;
 }
 .special-key:active {
 	background-color: #FFCCCC
